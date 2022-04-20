@@ -5,10 +5,10 @@ Competitive Programming Algorithm Implementations Kit
 
 Searching:
 
-    - Binary Search
-    - Knuth-Morris-Pratt String Search
+ - Binary Search
+ - Knuth-Morris-Pratt String Search
 
 Sorting:
 
-    - Recursive Merge Sort
-    - Merge Sort
+ - Recursive Merge Sort
+ - Merge Sort
