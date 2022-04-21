@@ -7,8 +7,10 @@ Searching:
 
  - Binary Search
  - Knuth-Morris-Pratt String Search
+ - Straight String Search
 
 Sorting:
 
  - Recursive Merge Sort
  - Merge Sort
+ - Quick Sort
